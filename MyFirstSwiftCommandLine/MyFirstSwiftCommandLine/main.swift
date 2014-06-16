@@ -24,7 +24,8 @@ import Foundation
 //var strAge = strValue + String(intValue)
 //println(strAge)
 
-/**/
+/*github test*/
+println("hello ,github!");
 
 
 
